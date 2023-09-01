@@ -1,6 +1,8 @@
 # Bike-share-system-provider-data-exploration
 Interactive python code for analyzing a dataset provided by Motivate, a bike share system provider. The program asks the user to choose a city, a week day, and a month to filter the data. The filtered data is returned alongside some statistics. There is data for 3 cities from january 2017 to june 2017.
 
+The data can be found [here](https://www.kaggle.com/datasets/shaltout/explore-bike-share-data).
+
 # Requirements
 - Python interpreter.
 - Panda and numpy libraries.
